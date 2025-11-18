@@ -1,0 +1,1 @@
+# sn-asset-type-classifier
